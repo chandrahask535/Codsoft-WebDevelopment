@@ -1,4 +1,4 @@
-### Job Board Project (Task 1):
+### Job Board Project:
 
 #### Project Title: Dynamic Job Board
 
@@ -14,7 +14,7 @@ Welcome to the Dynamic Job Board project, created as part of my Codsoft web deve
 ### Technologies Used:
 - HTML, CSS, JavaScript
 
-### Online Quiz Maker (Task 2):
+### Online Quiz Maker:
 
 #### Project Title: Online Quiz Maker
 
